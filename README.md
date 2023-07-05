@@ -15,4 +15,4 @@ RK_assembly: is a solver that combines two solvers: (i) RK_sparse_conj_sym to pr
 
 Finally, for classical least-squares L1 and L2-norm solvers, we implemented some of them in the 'harmonic_helper.py'. The users can use these algorithms for comparisons.
 
-The dataset where the analysis results of this paper were based, is published on: Zenodo.
+The dataset where the analysis results of this paper were based, is published on [Zenodo](10.5281/zenodo.8118265).
